@@ -120,7 +120,7 @@ Worked on Android application development, UI/UX design, and cybersecurity funda
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/debasishsabat](http://www.linkedin.com/in/debasishsabat)
-* GitHub: github.com/debasishsabat
+* GitHub: [www.github.com/debasishsabat](https://www.github.com/debasishsabat)
 * Email: [sabatdebasish13@gmail.com](mailto:sabatdebasish13@gmail.com)
 * Email Secondary: [debasishsabat13@gmail.com](mailto:debasishsabat13@gmail.com)
 * Phone: +91 79-78156449
